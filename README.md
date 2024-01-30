@@ -1,1 +1,1 @@
-Welcome to css2024 training
+Welcome to css2024 training day01
